@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "amain1"
-echo "amain2"
+echo "amain2 changed"
