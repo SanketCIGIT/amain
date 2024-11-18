@@ -1,4 +1,4 @@
 #!/bin/bash
 #
-echo "amain"
-echo "amain2"
+echo "amain1"
+echo "amain1"
