@@ -2,3 +2,4 @@
 #
 echo "amain1"
 echo "amain1"
+echo "amain2"
